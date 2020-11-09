@@ -1,0 +1,1 @@
+(function(){'use strict';var a=prompt("What are you looking for?","");a&&function(a){window.open(a,"_blank")}("https://www.google.com/search?q="+encodeURIComponent(a))})();

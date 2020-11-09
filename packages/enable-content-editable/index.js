@@ -1,0 +1,1 @@
+(function(a){'use strict';var b=Function,c=b.bind.bind(b.call),d=[].includes?c([].includes):function(b,a){return 0<=b.indexOf(a)},e=function(){return"documentMode"in a},f=a.body,g="contentEditable",h="designMode";"true"===f.getAttribute(g)?(f.removeAttribute(g),!e()&&(a[h]="off")):(f.setAttribute(g,"true"),!e()&&(a[h]="on"))})(document);

@@ -1,0 +1,1 @@
+(function(a){'use strict';(function(a){window.open(a,"_blank")})("http://cssstats.com/stats?url="+encodeURIComponent(a.href))})(location);

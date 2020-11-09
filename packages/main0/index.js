@@ -1,0 +1,1 @@
+(function(a){'use strict';(function(b){try{var c=a.createElement("script");c.setAttribute("src",b+"?i="+Math.random()),a.head.appendChild(c),a.head.removeChild(c)}catch(a){console.error(a)}})(function(a){return"https://bookmarkletsgo.github.io/packages/"+a+"/index.js"}("main"))})(document);

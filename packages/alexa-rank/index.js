@@ -1,0 +1,1 @@
+(function(a){'use strict';(function(a){window.open(a,"_blank")})("https://www.alexa.com/siteinfo/"+a.hostname)})(location);

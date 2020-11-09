@@ -1,0 +1,1 @@
+(function(a,b){'use strict';function c(a){var b=function(b){console.debug(b+""),prompt("Enter Ctrl+C to copy:",a)};try{navigator.clipboard.writeText(a).then(function(){return alert("done")}).catch(b)}catch(a){b(a)}}var d=b.href;d.includes(")")?c("["+a.title+"](<"+d+">)"):c("["+a.title+"]("+d+")")})(document,location);

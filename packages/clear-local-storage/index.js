@@ -1,0 +1,1 @@
+(function(){'use strict';localStorage.clear(),alert("done")})();

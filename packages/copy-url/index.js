@@ -1,0 +1,1 @@
+(function(a){'use strict';(function(a){var b=function(b){console.debug(b+""),prompt("Enter Ctrl+C to copy:",a)};try{navigator.clipboard.writeText(a).then(function(){return alert("done")}).catch(b)}catch(a){b(a)}})(a.href)})(location);

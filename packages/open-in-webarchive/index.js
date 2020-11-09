@@ -1,0 +1,1 @@
+(function(a){'use strict';var b=prompt("Use current URL or input an URL",a.href);null!==b&&function(a){window.open(a,"_blank")}("https://web.archive.org/web/*/"+(b||a.href))})(location);

@@ -1,0 +1,1 @@
+(function(a){'use strict';(function(a){window.open(a,"_blank")})("https://search.google.com/test/rich-results?utm_campaign=sdtt&utm_medium=message&url="+encodeURIComponent(a.href)+"&user_agent=1")})(location);

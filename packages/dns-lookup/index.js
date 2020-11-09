@@ -1,0 +1,1 @@
+(function(a){'use strict';(function(a){window.open(a,"_blank")})("https://mxtoolbox.com/SuperTool.aspx?action=a%3a"+a.hostname+"&run=toolpage")})(location);

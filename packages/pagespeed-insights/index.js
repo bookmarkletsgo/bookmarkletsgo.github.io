@@ -1,0 +1,1 @@
+(function(a){'use strict';(function(a){window.open(a,"_blank")})("https://developers.google.com/speed/pagespeed/insights/?url="+encodeURIComponent(a.href))})(location);

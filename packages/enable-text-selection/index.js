@@ -1,0 +1,1 @@
+(function(){'use strict';function a(b){var a="on"+b;window.addEventListener&&window.addEventListener(b,function(b){for(var c=b.originalTarget;c;c=c.parentNode)c[a]=null},!0),window[a]=null,document[a]=null,document.body&&(document.body[a]=null)}a("click"),a("mousedown"),a("mouseup"),a("selectstart")})();

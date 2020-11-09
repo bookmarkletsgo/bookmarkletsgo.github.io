@@ -1,0 +1,1 @@
+(function(a){'use strict';(function(a){window.open(a,"_blank")})("http://www.responsinator.com/?url="+encodeURIComponent(a.href)+"&scroll=ext")})(location);

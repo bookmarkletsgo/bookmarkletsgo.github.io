@@ -1,0 +1,1 @@
+(function(){'use strict';var a="Cookies stored on this site:\n\n"+document.cookie.replace(/; /g,"\n")+"\n    ---- end ----";console.log(a),alert(a)})();
